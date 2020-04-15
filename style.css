@@ -1,0 +1,65 @@
+h1 {
+  font-family: Gotu;
+  text-align: center;
+  color: white;
+  background-color: black;
+  opacity: 0.7;
+  font-size: 35px;
+}
+.questions { text-align: left;
+  font-family: Raleway;
+  color: white;
+  font-size: 20px;
+  
+}
+#description {
+  font-style: italic;
+  text-align: center;
+  font-family: Raleway;
+  color: white;
+  font-size: 20px;
+  
+}
+
+.form-group
+{
+  font-family: Raleway;
+  padding: 20px;
+  text-align: left;
+  margin-left: 4px;
+  color: white;
+}
+.form-control {
+  font-family: Raleway;
+  font-size: 15px;
+  
+}
+
+#survey-form 
+{
+  background-color: black;
+  opacity: 0.8;
+  text-align: left;
+}
+body {
+  background-image: url("https://static1.squarespace.com/static/56acc1138a65e2a286012c54/56ad05dfb09f9505c22897ef/58234ff89f7456df62468588/1549803632391/Headphones_Books.jpg?format=1000w");
+  
+  background-repeat: repeat;
+  background-position: right top;
+  background-attachment: scroll;
+  border-style: solid; 
+  border-color: white;
+  border: 5px solid white;
+  border-radius: 20px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+#submitbutton {
+  text-align: center;
+}
